@@ -1,0 +1,106 @@
+/*Inica stilo principal*/
+.fondo{
+	background-image: url("../img/carousel-bg.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	padding: 9%;
+}
+.mg-top{
+	margin-top: 10%;
+}
+hr{
+	width:25%;
+}
+.mg-top2{
+	margin-top: 3%;
+}
+.img{
+	width: 70%;
+	height: 70%;
+}
+/*GAMA DE COLORES*/
+.CFondo{
+	background-color: #003366;
+}
+.ColorWhite{
+	color: white;
+}
+.ColorBg{
+	background-color: white;
+}
+.C1{
+	background-color: #69D2E7;
+}
+.C2{
+	background-color: #A7D2E7;
+}
+.C3{
+	background-color: #E0E4CC;
+}
+.C4{
+	background-color: #F38630;
+}
+.C5{
+	background-color: #FA6900;
+}
+.C6{
+	background-color: #E94C6F;
+}
+.C7{
+	background-color: #542733;
+}
+.C8{
+	background-color: #5A6A62;
+}
+.C9{
+	background-color: #C6D5CD;
+}
+.C10{
+	background-color: #FDF200;
+}
+.C11{
+	background-color: #D83340;
+}
+.C12{
+	background-color: #E8B71A;
+}
+.C13{
+	background-color: #F7EAC8;
+}
+.C14{
+	background-color: #1FDA9A;
+}
+.C15{
+	background-color: #28ABE3;
+}
+.C16{
+	background-color: #588C73;
+}
+.C17{
+	background-color: #F2E394;
+}
+.C18{
+	background-color: #F2AE72;
+}
+.C19{
+	background-color: #D96459;
+}
+.C20{
+	background-color: #8C4646;
+}
+.C21{
+	background-color: #D0C91F;
+}
+.C22{
+	background-color: #85C4B9;
+}
+.C23{
+	background-color: #008BBA;
+}
+.C24{
+	background-color: #DF514C;
+}
+.C25{
+	background-color: #DC403B;
+}
+/*ACABA GAMA DE COLORES*/
