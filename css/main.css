@@ -11,12 +11,21 @@
 hr{
 	width:25%;
 }
+.hrstandar{
+	width: 100%;
+}
 .mg-top2{
 	margin-top: 3%;
+}
+.mgBoton{
+	margin: 15% 30%;
 }
 .img{
 	width: 70%;
 	height: 70%;
+}
+.bordergreen{
+	border:2px solid #1FDA9A;
 }
 /*GAMA DE COLORES*/
 .CFondo{
@@ -25,8 +34,14 @@ hr{
 .ColorWhite{
 	color: white;
 }
+.Cgris{
+	color:#CCCCCC;
+}
+.CafeFondo{
+	background-color: #996633;
+}
 .ColorBg{
-	background-color: white;
+	background-color: #FFFFFF;
 }
 .C1{
 	background-color: #69D2E7;
