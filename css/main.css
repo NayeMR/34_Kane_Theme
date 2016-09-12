@@ -26,6 +26,9 @@ hr{
 .pd-2{
 	padding: 4%;
 }
+.pd-1{
+	padding: 2%;
+}
 .img{
 	width: 70%;
 	height: 70%;
@@ -43,6 +46,9 @@ hr{
 }
 .bloque{
 	display: block;
+}
+.mg-0{
+	margin: 0%;
 }
 /*GAMA DE COLORES*/
 .CFondo{
