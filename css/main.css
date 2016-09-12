@@ -23,12 +23,23 @@ hr{
 .mgBoton{
 	margin: 15% 30%;
 }
+.pd-2{
+	padding: 4%;
+}
 .img{
 	width: 70%;
 	height: 70%;
 }
 .bordergreen{
 	border:2px solid #1FDA9A;
+}
+.fondoRepeat{
+	background-image: url(../img/img-divider-img.jpg);
+	background-repeat: repeat-x;
+	padding: 14%;
+}
+.linea{
+	display: inline-block;
 }
 /*GAMA DE COLORES*/
 .CFondo{
