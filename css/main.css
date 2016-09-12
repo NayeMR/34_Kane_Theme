@@ -3,13 +3,16 @@
 	background-image: url("../img/carousel-bg.jpg");
 	background-repeat: no-repeat;
 	background-size: 100%;
-	padding: 9%;
+	padding: 10%;
 }
 .mg-top{
 	margin-top: 10%;
 }
 hr{
 	width:10%;
+}
+p{
+	font-size: 1em;
 }
 .hrstandar{
 	width: 100%;
@@ -43,7 +46,7 @@ hr{
 }
 .img{
 	width: 70%;
-	height: 70%;
+	height: 100%;
 }
 .rotate{
 	border-radius: 40px;
