@@ -20,6 +20,9 @@ hr{
 .mg-top8{
 	margin-top: 8%;
 }
+.mg-top10{
+	margin-top: 10%;
+}
 .mgBoton{
 	margin: 15% 30%;
 }
@@ -42,6 +45,9 @@ hr{
 .bordergreen{
 	border:2px solid #1FDA9A;
 }
+.bordeorange{
+	border:2px solid #F38630;
+}
 .fondoRepeat{
 	background-image: url(../img/img-divider-img.jpg);
 	background-repeat: repeat-x;
@@ -53,7 +59,7 @@ hr{
 .bloque{
 	display: block;
 }
-.mg-0{
+. {
 	margin: 0%;
 }
 .font-size{
