@@ -9,7 +9,7 @@
 	margin-top: 10%;
 }
 hr{
-	width:20%;
+	width:10%;
 }
 .hrstandar{
 	width: 100%;
@@ -49,6 +49,9 @@ hr{
 }
 .mg-0{
 	margin: 0%;
+}
+.font-size{
+	font-size: 3em;
 }
 /*GAMA DE COLORES*/
 .CFondo{
