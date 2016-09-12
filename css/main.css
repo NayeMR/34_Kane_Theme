@@ -41,6 +41,9 @@ hr{
 .linea{
 	display: inline-block;
 }
+.bloque{
+	display: block;
+}
 /*GAMA DE COLORES*/
 .CFondo{
 	background-color: #003366;
